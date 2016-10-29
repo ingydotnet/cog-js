@@ -1,0 +1,11 @@
+id: +cog/id
+rev: +cog/rev
+type: +cog/ref
+create: +time
+update: +time
+name?: +line[+?]
+tag?: +tag[+?]
+whom?: ...
+body?: +text
+from?: +cog/ref
+link?: +url[+?]

@@ -1,0 +1,19 @@
+- Generate a new express app
+- Update the package.json
+- Add ReadMe.md
+- Add Makefile
+- Convert js to coffee
+- Set up grunt watcher
+- Generate form from stp
+
+== Usage
+
+  mkdir ingy-notes
+  cd ingy-notes
+  cog init
+  cog start
+  cog add
+  cog edit qw3r
+  cog find 'tag=xyz'
+  cog get qw3r
+  cog rm qw3r
